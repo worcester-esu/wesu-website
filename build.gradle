@@ -6,12 +6,39 @@ buildscript	{
 	dependencies {
 		classpath 'me.champeau.gradle:jbake-gradle-plugin:0.2'
 		classpath 'org.jbake:jbake-core:2.4.0'
-		classpath 'org.pegdown:pegdown:1.4.2'
+		classpath 'org.pegdown:pegdown:1.6.0'
+		classpath 'org.freemarker:freemarker:2.3.23'
+		classpath 'org.hidetake:gradle-ssh-plugin:2.4.1'
 	}
 }
 
+apply plugin: 'base'
 apply plugin: 'me.champeau.jbake'
+apply plugin: 'org.hidetake.ssh'
 
 group = 'uk.co.worcesterexplorerscouts'
 
+remotes {
+	webServer {
+		host = project.findProperty("uk.co.worcesterexplorerscouts.deploy.host")
+		user = project.findProperty("uk.co.worcesterexplorerscouts.deploy.user")
+		password = project.findProperty("uk.co.worcesterexplorerscouts.deploy.password")
+	}
+}
 
+task deploy << {
+	ssh.run {
+		session(remotes.webServer) {
+			def deployDir = project.findProperty("uk.co.worcesterexplorerscouts.deploy.location")
+			def tempDeployDir = project.findProperty("uk.co.worcesterexplorerscouts.deploy.temp")
+			put from: "${buildDir}/jbake/", into: tempDeployDir
+			execute "rm --preserve-root -Rf ${deployDir}/*", ignoreError: true
+			execute "mv ${tempDeployDir}/jbake/* ${deployDir}/"
+			execute "rmdir ${tempDeployDir}/jbake"
+		}
+	}
+}
+
+assemble.dependsOn jbake
+build.dependsOn jbake
+deploy.dependsOn build
