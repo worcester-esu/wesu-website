@@ -1,0 +1,17 @@
+buildscript	{
+	repositories {
+		jcenter()
+	}
+
+	dependencies {
+		classpath 'me.champeau.gradle:jbake-gradle-plugin:0.2'
+		classpath 'org.jbake:jbake-core:2.4.0'
+		classpath 'org.pegdown:pegdown:1.4.2'
+	}
+}
+
+apply plugin: 'me.champeau.jbake'
+
+group = 'uk.co.worcesterexplorerscouts'
+
+
