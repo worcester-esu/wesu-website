@@ -7,7 +7,7 @@ buildscript	{
 		classpath 'me.champeau.gradle:jbake-gradle-plugin:0.2'
 		classpath 'org.jbake:jbake-core:2.4.0'
 		classpath 'org.pegdown:pegdown:1.6.0'
-		classpath 'org.freemarker:freemarker:2.3.23'
+		classpath 'org.freemarker:freemarker:2.3.25-incubating'
 		classpath 'org.hidetake:gradle-ssh-plugin:2.4.1'
 	}
 }
