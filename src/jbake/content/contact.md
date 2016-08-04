@@ -3,7 +3,6 @@ date=2016-08-03
 type=page
 status=published
 tab=Contact
-banner=false
 ~~~~~~
 
   * **General enquiries:** info [at] worcesterexplorerscouts [dot] co [dot] uk

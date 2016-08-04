@@ -16,4 +16,11 @@
 				<#include "tabs.ftl">
 			</div>
 		</div>
+		<#if content.banner?has_content && content.banner == "true">
+			<div class="bar_banner">
+			</div>
+		</#if>
+		<div class="bar_content">
+			<div class="inner">
+				<#include "leftnav.ftl">
 

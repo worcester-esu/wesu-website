@@ -3,7 +3,6 @@ date=2016-08-04
 type=page
 status=published
 tab=Contact
-banner=false
 ~~~~~~
 
 ## Resources

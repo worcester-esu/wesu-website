@@ -1,4 +1,6 @@
 
+			</div>
+		</div>
 		<div class="bar_foot">
 			<div class="inner">
 				<div class="rblock">
