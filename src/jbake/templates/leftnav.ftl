@@ -10,7 +10,6 @@
 					<#if tabName == content.tab>
 						<#assign hasnavbar = true>
 						<div class="navbar">
-							<h3>${tabName}</h3>
 							<ul>
 								<#list navList as navTitle, navLocation>
 									<#if navTitle == content.title>
