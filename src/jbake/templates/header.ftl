@@ -5,6 +5,7 @@
 		<link rel="stylesheet" href="css/main.css" type="text/css" />
 		<link rel="icon" type="image/x-icon" href="img/wesu.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta charset="UTF-8">
 	</head>
 	<body>
 		<div class="bar_top">
