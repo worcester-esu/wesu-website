@@ -1,5 +1,5 @@
 title=Useful Websites
-date=2016-08-04
+date=2016-08-13
 type=page
 status=published
 tab=Contact
@@ -21,17 +21,15 @@ tab=Contact
 ## Scouting Locally
 
   * [Worcester District](http://www.worcesterscouts.org.uk/)
-  * [Black Pear Network](http://blackpear.ukscouts.org.uk/)
+  * [Black Pear Scout Network](http://blackpear.ukscouts.org.uk/)
   * [1st Worcester Scout Group](http://www.firstworcester.co.uk/) (St Peters)
   * [3rd Worcester Scout Group](http://www.3rdworcesterscouts.co.uk/) (Rainbow Hill)
   * [5th Worcester Sea Scout Group](http://www.worcesterseascouts.com/) (Barbourne)
   * [7th Worcester Scout Group](http://www.7wsg.org.uk/) (Powick)
-  * [8th Tiw Beaver Colony](http://tiw.8thworcesterbeavers.org.uk/wp/) (Claines)
-  * [8th Tiw Cub Pack](http://8thtiwcubs.org.uk/) (Claines)
-  * [8th Woden Cub Pack](http://www.8thwodencubs.org.uk/) (Claines)
   * [8th Friday Scout Troop](http://www.8thworcesterscouts.co.uk/) (Claines)
   * [9th Worcester Scout Group](http://www.9thhallow.co.uk/) (Hallow)
   * [10th Worcester Scout Group](http://www.10thworcesterscouts.org.uk/) (Crown East)
+  * [20th Worcester Scout Group](https://20thworcesterscouts.org/) (Warndon Villages)
 
 
 ## Venues & Events

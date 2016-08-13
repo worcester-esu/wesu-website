@@ -3,6 +3,16 @@
 		</div>
 		<div class="bar_foot">
 			<div class="inner">
+				<div class="block">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="https://www.onlinescoutmanager.co.uk/parents/" target="_blank">My.SCOUT</a></li>
+                        <li><a href="https://www.edofe.org/" target="_blank">eDofE</a></li>
+                        <li><a href="http://www.worcesterscouts.org.uk/" target="_blank">Worcester District</a></li>
+                        <li><a href="http://blackpear.ukscouts.org.uk/" target="_blank">Black Pear Network</a></li>
+                        <li><a href="https://members.scouts.org.uk/supportresources/search/?cat=9,88" target="_blank">Badge requirements</a></li>
+                    </ul>
+				</div>
 				<div class="rblock">
 					<img src="img/logo-bright.png" alt="[The Scout Association logo]" />
 				</div>
