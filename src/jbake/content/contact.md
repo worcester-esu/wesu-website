@@ -6,7 +6,6 @@ tab=Contact
 ~~~~~~
 
   * **General enquiries:** info [at] worcesterexplorerscouts [dot] co [dot] uk
-  * **District Explorer Scout Commissioner:** desc [at] worcesterexplorerscouts [dot] co [dot] uk
   * **North unit:** north [at] worcesterexplorerscouts [dot] co [dot] uk
   * **East unit:** east [at] worcesterexplorerscouts [dot] co [dot] uk
   * **South unit:** south [at] worcesterexplorerscouts [dot] co [dot] uk

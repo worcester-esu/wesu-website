@@ -4,6 +4,16 @@
 		<div class="bar_foot">
 			<div class="inner">
 				<div class="block">
+                    <h3>Information</h3>
+                    <ul>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="about-sections.html">Sections</a></li>
+                        <li><a href="news.html">News</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="about-join.html">Join</a></li>
+                    </ul>
+				</div>
+				<div class="block">
                     <h3>Quick Links</h3>
                     <ul>
                         <li><a href="https://www.onlinescoutmanager.co.uk/parents/" target="_blank">My.SCOUT</a></li>

@@ -3,6 +3,14 @@
 		"Email Us": "contact.html",
 		"Facebook": "contact-facebook.html",
 		"Useful Websites": "contact-links.html"
+	},
+	"About": {
+		"About Us": "about.html",
+		"Sections": "about-sections.html",
+		"Young Leaders": "about-youngleaders.html",
+		"Activities": "about-activities.html",
+		"Badges and Awards": "about-awards.html",
+		"Join Us": "about-join.html"
 	}
 }>
 
