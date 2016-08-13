@@ -3,6 +3,7 @@ date=2016-08-13
 type=page
 status=published
 tab=About
+image=4
 ~~~~~~
 
 New members are always welcome, whether you've been in Scouting for years or are a complete newcomer. It should go without saying that we're open to everyone (aged 14 to 18 of course - if you're under 14 or over 18, one of Scouting's [other sections](http://scouts.org.uk/what-we-do/scouting-age-ranges/) will be glad to welcome you).

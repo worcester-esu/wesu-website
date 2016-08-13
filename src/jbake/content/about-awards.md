@@ -3,6 +3,7 @@ date=2016-08-13
 type=page
 status=published
 tab=About
+image=5
 ~~~~~~
 
 Our members work towards a variety of badges and awards.

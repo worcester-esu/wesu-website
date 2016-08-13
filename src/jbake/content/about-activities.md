@@ -3,6 +3,7 @@ date=2016-08-13
 type=page
 status=published
 tab=About
+image=3
 ~~~~~~
 
 We run a huge range of activities, not only at our weekly meetings but at weekends and on camp too!

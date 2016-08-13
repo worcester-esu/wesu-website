@@ -3,6 +3,7 @@ date=2016-08-13
 type=page
 status=published
 tab=About
+image=2
 ~~~~~~
 
 The Young Leaders' Scheme is just one of the exciting programme elements in the Explorer Scout section. Young Leaders are people in the Explorer age range who volunteer with one of the younger sections alongside adult leaders.

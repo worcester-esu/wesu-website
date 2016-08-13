@@ -3,6 +3,7 @@ date=2016-08-13
 type=page
 status=published
 tab=About
+image=1
 ~~~~~~
 
 We're the section of Scouting for 14 to 18-year-olds in [Worcester City](http://maps.google.co.uk/maps?q=Worcester&amp;hl=en&amp;sll=52.8382,-2.327815&amp;sspn=9.829816,25.554199&amp;oq=worce&amp;hnear=Worcester,+United+Kingdom&amp;t=m&amp;z=13) and nearby villages in the UK. We have over 110 members and run weekly activities plus lots of camps and other activities.

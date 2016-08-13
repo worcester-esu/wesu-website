@@ -3,6 +3,7 @@ date=2016-08-13
 type=page
 status=published
 tab=About
+image=6
 ~~~~~~
 
 Our five sections meet at various locations around Worcester on weekday evenings.
