@@ -1,5 +1,5 @@
 title=About Us
-date=2016-08-13
+date=2016-08-21
 type=page
 status=published
 tab=About
@@ -18,7 +18,7 @@ We're an international movement that uses fun and challenging [activities](about
 
 ## How does Explorers Work?
 
-From age 14 onwards, Scouting is organised slightly differently. Instead of being part of individual Scout Groups, we have five Explorer sections which between them cover [Worcester District](http://www.worcesterscouts.org.uk/).
+From age 14 onwards, Scouting is organised slightly differently. Instead of being part of individual Scout Groups, we have four Explorer sections which between them cover [Worcester District](http://www.worcesterscouts.org.uk/).
 
 Each section runs its own weekly programme, but we work closely together (and with local Groups) to organise regular joint activities on a variety of weekday evenings and at weekends.
 
