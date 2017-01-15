@@ -30,7 +30,7 @@
 		</div>
 		<div class="bar_bottom">
 			<div class="inner">
-				<p>Copyright &copy; 2015-2016, Worcester Explorer Scout Unit. All rights reserved. Some logos and other elements are the copyright of other entities and used with permission. Website design by <a href="http://www.eddies.me.uk/" target="_blank">Steven Eddies</a>. Worcester Explorer Scout Unit is part of <a href="http://www.worcesterscouts.org.uk/" target="_blank">Worcester District Scout Council</a>, registered charity number 524644 in England and Wales.</p>
+				<p>Copyright &copy; 2015-2017, Worcester Explorer Scout Unit. All rights reserved. Some logos and other elements are the copyright of other entities and used with permission. Website design by <a href="http://www.eddies.me.uk/" target="_blank">Steven Eddies</a>. Worcester Explorer Scout Unit is part of <a href="http://www.worcesterscouts.org.uk/" target="_blank">Worcester District Scout Council</a>, registered charity number 524644 in England and Wales.</p>
 			</div>
 		</div>
 	</body>
