@@ -13,7 +13,7 @@
 				<img class="rlogo" src="img/logo-right.png" alt="[Explorer logo]" />
 				<img class="mlogol" src="img/logo-main.png" alt="Worcester Explorer Scout Unit" />
 				<img class="mlogos" src="img/logo-mains.png" alt="WESU" title="Worcester Explorer Scout Unit" />
-				<p class="subtitle">Providing everyday adventure for 14 to 18-year-olds in Worcester</p>
+				<p class="subtitle">Taking scouting to the next level</p>
 				<#include "tabs.ftl">
 			</div>
 		</div>
