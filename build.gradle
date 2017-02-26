@@ -16,21 +16,21 @@ apply plugin: 'base'
 apply plugin: 'me.champeau.jbake'
 apply plugin: 'org.hidetake.ssh'
 
-group = 'uk.co.worcesterexplorerscouts'
+group = 'uk.co.wesu'
 
 remotes {
 	webServer {
-		host = project.findProperty("uk.co.worcesterexplorerscouts.deploy.host")
-		user = project.findProperty("uk.co.worcesterexplorerscouts.deploy.user")
-		password = project.findProperty("uk.co.worcesterexplorerscouts.deploy.password")
+		host = project.findProperty("uk.co.wesu.deploy.host")
+		user = project.findProperty("uk.co.wesu.deploy.user")
+		password = project.findProperty("uk.co.wesu.deploy.password")
 	}
 }
 
 task deploy << {
 	ssh.run {
 		session(remotes.webServer) {
-			def deployDir = project.findProperty("uk.co.worcesterexplorerscouts.deploy.location")
-			def tempDeployDir = project.findProperty("uk.co.worcesterexplorerscouts.deploy.temp")
+			def deployDir = project.findProperty("uk.co.wesu.deploy.location")
+			def tempDeployDir = project.findProperty("uk.co.wesu.deploy.temp")
 			put from: "${buildDir}/jbake/", into: tempDeployDir
 			execute "rm --preserve-root -Rf ${deployDir}/*", ignoreError: true
 			execute "mv ${tempDeployDir}/jbake/* ${deployDir}/"
