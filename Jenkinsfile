@@ -11,8 +11,8 @@ node {
 }
 
 void runGradle(String tasks) {
-	withCredentials([[$class: 'UsernamePasswordMultiBinding', credentialsId: '80d09498-5176-45a5-a973-b9039bfd6134', usernameVariable: 'DEPLOY_USERNAME', passwordVariable: 'DEPLOY_PASSWORD']]) {
+	withCredentials([[$class: 'UsernamePasswordMultiBinding', credentialsId: '53aacf59-4a15-4e08-a872-335df2ff05f7', usernameVariable: 'DEPLOY_USERNAME', passwordVariable: 'DEPLOY_PASSWORD']]) {
 		sh 'set +x'
-		sh "./gradlew ${tasks} -Puk.co.worcesterexplorerscouts.deploy.user=\$DEPLOY_USERNAME -Puk.co.worcesterexplorerscouts.deploy.password=\$DEPLOY_PASSWORD"
+		sh "./gradlew ${tasks} -Puk.co.wesu.deploy.user=\$DEPLOY_USERNAME -Puk.co.wesu.deploy.password=\$DEPLOY_PASSWORD"
 	}
 }
