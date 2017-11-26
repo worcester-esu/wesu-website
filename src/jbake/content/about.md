@@ -1,5 +1,5 @@
 title=About Us
-date=2016-08-21
+date=2017-11-26
 type=page
 status=published
 tab=About
@@ -25,4 +25,4 @@ Each section runs its own weekly programme, but we work closely together (and wi
 
 ## What does it Cost?
 
-Subscription fees are £12.50 each month; this covers the cost of most weekly meetings, insurance and ongoing running costs. Some activities and camps are extra to this, for example a weekend camp might be £30 or a week-long Summer camp might be £175.
+Subscription fees are £12.50 each month; this covers the cost of most weekly meetings, insurance and ongoing running costs. Some activities and camps are extra to this, for example a weekend camp might be £30 or a week-long Summer camp might be £250.

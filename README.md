@@ -26,6 +26,5 @@ The build scripts (including the Jenkinsfile and the Gradle scripts) are &copy; 
 
  * Master repository: https://github.com/worcester-esu/wesu-website
  * Issue tracker: https://github.com/worcester-esu/wesu-website/issues
- * CI server: https://jenkins.eddies.me.uk/job/wesu-website/
  * Baked website: http://www.wesu.co.uk/
 
