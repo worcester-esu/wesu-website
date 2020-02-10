@@ -32,16 +32,18 @@ task zip(type: Zip) {
 	destinationDir(file("${buildDir}/deploy/"))
 }
 
-task deploy << {
-	ssh.run {
-		session(remotes.webServer) {
-			def deployDir = project.findProperty("uk.co.wesu.deploy.location")
-			def tempDeployDir = project.findProperty("uk.co.wesu.deploy.temp")
-			put from: "${buildDir}/deploy/", into: tempDeployDir
-			execute "unzip ${tempDeployDir}/deploy/web.zip -d ${tempDeployDir}/extracted/"
-			execute "rm --preserve-root -Rf ${deployDir}/*", ignoreError: true
-			execute "mv ${tempDeployDir}/extracted/* ${deployDir}/"
-			execute "rm --preserve-root -Rf ${tempDeployDir}/*", ignoreError: true
+task deploy {
+	doLast {
+		ssh.run {
+			session(remotes.webServer) {
+				def deployDir = project.findProperty("uk.co.wesu.deploy.location")
+				def tempDeployDir = project.findProperty("uk.co.wesu.deploy.temp")
+				put from: "${buildDir}/deploy/", into: tempDeployDir
+				execute "unzip ${tempDeployDir}/deploy/web.zip -d ${tempDeployDir}/extracted/"
+				execute "rm --preserve-root -Rf ${deployDir}/*", ignoreError: true
+				execute "mv ${tempDeployDir}/extracted/* ${deployDir}/"
+				execute "rm --preserve-root -Rf ${tempDeployDir}/*", ignoreError: true
+			}
 		}
 	}
 }
@@ -49,4 +51,3 @@ task deploy << {
 zip.dependsOn jbake
 assemble.dependsOn zip
 deploy.dependsOn build
-
