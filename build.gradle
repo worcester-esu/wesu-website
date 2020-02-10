@@ -1,20 +1,7 @@
-buildscript	{
-	repositories {
-		jcenter()
-	}
-
-	dependencies {
-		classpath 'me.champeau.gradle:jbake-gradle-plugin:0.2'
-		classpath 'org.jbake:jbake-core:2.4.0'
-		classpath 'org.pegdown:pegdown:1.6.0'
-		classpath 'org.freemarker:freemarker:2.3.25-incubating'
-		classpath 'org.hidetake:gradle-ssh-plugin:2.4.1'
-	}
+plugins {
+	id 'org.jbake.site' version '5.0.0'
+	id 'org.hidetake.ssh' version '2.10.1'
 }
-
-apply plugin: 'base'
-apply plugin: 'me.champeau.jbake'
-apply plugin: 'org.hidetake.ssh'
 
 group = 'uk.co.wesu'
 
@@ -23,6 +10,7 @@ remotes {
 		host = project.findProperty("uk.co.wesu.deploy.host")
 		user = project.findProperty("uk.co.wesu.deploy.user")
 		password = project.findProperty("uk.co.wesu.deploy.password")
+		knownHosts = addHostKey(file("${System.properties['user.home']}/.ssh/known_hosts"))
 	}
 }
 
@@ -48,6 +36,6 @@ task deploy {
 	}
 }
 
-zip.dependsOn jbake
+zip.dependsOn bake
 assemble.dependsOn zip
 deploy.dependsOn build
