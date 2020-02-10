@@ -2,3 +2,4 @@
 /.gradle
 *.prefs
 /bin
+/.project
