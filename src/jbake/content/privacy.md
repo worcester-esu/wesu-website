@@ -1,5 +1,5 @@
 title=Privacy Policy
-date=2016-09-10
+date=2020-02-22
 type=page
 status=published
 tab=None
