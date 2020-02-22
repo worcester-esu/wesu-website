@@ -23,6 +23,14 @@
                         <li><a href="https://members.scouts.org.uk/supportresources/search/?cat=9,88" target="_blank">Badge requirements</a></li>
                     </ul>
 				</div>
+				<div class="block">
+                    <h3>Social</h3>
+                    <ul>
+                        <li><a href="https://www.facebook.com/worcesterexplorerscouts/" target="_blank">Facebook</a></li>
+                        <li><a href="https://www.instagram.com/worcester_explorer_units/" target="_blank">Instagram</a></li>
+                        <li><a href="https://twitter.com/WorcESU" target="_blank">Twitter</a></li>
+                    </ul>
+				</div>
 			</div>
 		</div>
 		<div class="bar_bottom">
