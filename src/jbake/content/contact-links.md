@@ -1,5 +1,5 @@
 title=Useful Websites
-date=2016-08-13
+date=2020-02-22
 type=page
 status=published
 tab=Contact
@@ -20,7 +20,7 @@ tab=Contact
 
 ## Scouting Locally
 
-  * [Worcester District](http://www.worcesterscouts.org.uk/)
+  * [Worcester District](http://www.worcesterscouts.org/)
   * [Black Pear Scout Network](http://blackpear.ukscouts.org.uk/)
   * [1st Worcester Scout Group](http://www.firstworcester.co.uk/) (St Peters)
   * [3rd Worcester Scout Group](http://www.3rdworcesterscouts.co.uk/) (Rainbow Hill)
@@ -28,7 +28,7 @@ tab=Contact
   * [7th Worcester Scout Group](http://www.7wsg.org.uk/) (Powick)
   * [8th Friday Scout Troop](http://www.8thworcesterscouts.co.uk/) (Claines)
   * [9th Worcester Scout Group](http://www.9thhallow.co.uk/) (Hallow)
-  * [10th Worcester Scout Group](http://www.10thworcesterscouts.org.uk/) (Crown East)
+  * [10th Worcester Scout Group](http://www.10thworcesterscouts.org/) (Crown East)
   * [20th Worcester Scout Group](https://20thworcesterscouts.org/) (Warndon Villages)
 
 
