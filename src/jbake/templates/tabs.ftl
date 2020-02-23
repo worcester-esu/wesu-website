@@ -1,7 +1,9 @@
 <#assign tabs = {
 	"Home": "index.html",
-	"News": "news.html",
+	"Latest": "https://www.facebook.com/worcesterexplorerscouts/\" target=\"_blank",
 	"About": "about.html",
+	"Volunteer": "volunteer.html",
+	"Join": "join.html",
 	"Contact": "contact.html"
 }>
 
