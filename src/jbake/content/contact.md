@@ -1,4 +1,4 @@
-title=Get in Touch
+title=Get in touch
 date=2020-02-23
 type=page
 status=published

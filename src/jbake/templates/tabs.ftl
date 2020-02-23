@@ -2,6 +2,7 @@
 	"Home": "index.html",
 	"Latest": "https://www.facebook.com/worcesterexplorerscouts/\" target=\"_blank",
 	"About": "about.html",
+	"Volunteer": "volunteer.html",
 	"Contact": "contact.html"
 }>
 
