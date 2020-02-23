@@ -7,6 +7,7 @@
                     <h3>Information</h3>
                     <ul>
                         <li><a href="volunteer.html">Help us out</a></li>
+                        <li><a href="join.html">Join us</a></li>
                         <li><a href="contact.html">Get in touch</a></li>
                     </ul>
 				</div>
