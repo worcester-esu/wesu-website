@@ -1,9 +1,4 @@
 <#assign leftnav = {
-	"Contact": {
-		"Email Us": "contact.html",
-		"Facebook": "contact-facebook.html",
-		"Useful Websites": "contact-links.html"
-	},
 	"About": {
 		"About Us": "about.html",
 		"Sections": "about-sections.html",
