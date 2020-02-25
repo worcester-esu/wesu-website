@@ -1,16 +1,14 @@
-title=Activities
-date=2020-02-22
+title=What we do
+date=2020-02-25
 type=page
 status=published
 tab=About
 image=3
 ~~~~~~
 
-We run a huge range of activities, not only at our weekly meetings but at weekends and on camp too!
+We do a lot of activities on our way to helping people learn skills for life. At our weekly meetings, at weekends, and on camp.
 
-There's something for everyone, with a variety of traditional Scouting skills, adventurous activities, life skills and much more besides. Our members themselves decide what to include in the programme.
-
-Here's a quick sample:
+There's something for everyone and our Explorers decide what to do. Here's a quick sample:
 
   * Air rifle shooting
   * Archery
