@@ -1,18 +1,20 @@
 title=Young Leaders
-date=2020-02-22
+date=2020-02-25
 type=page
 status=published
 tab=About
 image=2
 ~~~~~~
 
-The Young Leaders' Scheme is just one of the exciting programme elements in the Explorer Scout section. Young Leaders are people in the Explorer age range who volunteer with one of the younger sections alongside adult leaders.
+Young Leaders are Explorers who lead a younger section alongside adults.
 
-The Young Leaders' Scheme helps Explorer Scouts to develop and grow as individuals. It allows them to make a valuable contribution to their community and give service to others. The scheme also helps them fulfil the service elements of their [awards](about-awards.html).
+This helps us learn skills for life - thinking on our feet, mucking in and leading other people - and lets us give something back to the Scouts at the same time. It also helps us work towards our awards.
+
+Some Young Leaders also go to one of the regular [Explorer units](about-sections.html), some don't.
 
 
-## The Young Leader Unit
+## Firebrand Young Leader Unit
 
-The Young Leader Unit exists to support Young Leaders, with meetings once a term focusing on a range of themes including training, adventure and leadership. For more details about Young Leaders in Worcester or when our next meeting is please [get in touch](contact.html)!
+Firebrand Unit supports Young Leaders in Worcester. We meet once a term and our activities are usually about training, adventure and/or leadership. Please [get in touch](contact.html) to find out about our next meeting or other information.
 
-All Young Leaders in Worcester District must be members of the Young Leader Unit. Many also choose to join one of the other [Explorer sections](about-sections.html) too.
+All Young Leaders in Worcester must be registered with Firebrand. If you're not sure, please get in touch and we can let you know.
