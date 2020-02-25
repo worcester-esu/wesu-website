@@ -1,10 +1,9 @@
 <#assign leftnav = {
 	"About": {
 		"About Us": "about.html",
-		"Sections": "about-sections.html",
+		"Units": "about-sections.html",
 		"Young Leaders": "about-youngleaders.html",
-		"Activities": "about-activities.html",
-		"Badges and Awards": "about-awards.html"
+		"Activities": "about-activities.html"
 	}
 }>
 
