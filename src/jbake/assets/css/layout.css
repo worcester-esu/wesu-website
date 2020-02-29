@@ -83,6 +83,11 @@ div.content p
     margin: 1em;
 }
 
+div.content div.map
+{
+    margin: 1.5em 1em;
+}
+
 div.content table.form
 {
     margin: 0.5em;

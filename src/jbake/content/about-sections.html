@@ -1,0 +1,29 @@
+title=Our units
+date=2020-02-29
+type=page
+status=published
+tab=About
+leftnav=Units
+~~~~~~
+
+<div class="map"><div id="units-map" style="height:30em;"></div></div>
+
+<script language="javascript">
+	var unitsMap = L.map('units-map').setView([52.1940,-2.2175], 12);
+	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(unitsMap);
+	L.marker([52.2214,-2.2561]).addTo(unitsMap).bindPopup('Dauntless: alternate Thursdays');
+	L.marker([52.1937,-2.2259]).addTo(unitsMap).bindPopup('Firebrand: Young Leaders');
+	L.marker([52.1877,-2.1796]).addTo(unitsMap).bindPopup('Valiant: Mondays');
+	L.marker([52.2096,-2.2341]).addTo(unitsMap).bindPopup('Voyager: Tuesdays');
+</script>
+
+<p>We have different units to suit different people:</p>
+
+<ul>
+	<li>Dauntless Unit: alternate Thursdays in Hallow</li>
+	<li>Firebrand <a href="about-youngleaders.html">Young Leader</a> Unit: termly meetings around Worcester</li>
+	<li>Valiant Unit: Mondays at the Countryside Centre</li>
+	<li>Voyager Sea Unit: Tuesdays in Barbourne</li>
+</ul>
