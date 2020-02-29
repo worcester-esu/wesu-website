@@ -33,7 +33,7 @@ div.bar_top ul.tabs li
 
 div.bar_banner
 {
-    height: 200px;
+    height: 288px;
 }
 
 div.bar_content
@@ -258,6 +258,11 @@ div.bar_bottom p
         margin-top: -2.5em;
     }
 
+    div.bar_banner
+    {
+        height: 384px;
+    }
+
     div.bar_foot div.block, div.bar_foot div.rblock
     {
         width: 25%;
@@ -276,5 +281,14 @@ div.bar_bottom p
         width: 72em;
         padding: 0em;
         margin: 0em auto;
+    }
+}
+
+@media (min-width: 1920px)
+{
+    div.bar_banner
+    {
+        height: auto;
+        padding-top: 20%;
     }
 }

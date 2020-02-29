@@ -3,6 +3,8 @@ date=2020-02-23
 type=page
 status=published
 tab=Volunteer
+banner=8
+bannerpos=70%
 ~~~~~~
 
 At Explorers, we're all volunteers. We help people become do-ers and leaders. We help people give things a go and think for themselves.

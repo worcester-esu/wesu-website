@@ -4,7 +4,8 @@ type=page
 status=published
 tab=About
 leftnav=Young Leaders
-image=2
+banner=9
+bannerpos=30%
 ~~~~~~
 
 Young Leaders are Explorers who lead a younger section alongside adults.

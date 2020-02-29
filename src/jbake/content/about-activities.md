@@ -4,7 +4,8 @@ type=page
 status=published
 tab=About
 leftnav=Activities
-image=3
+banner=4
+bannerpos=40%
 ~~~~~~
 
 We do a lot of activities on our way to helping people learn skills for life. At our weekly meetings, at weekends, and on camp.

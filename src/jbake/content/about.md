@@ -4,7 +4,8 @@ type=page
 status=published
 tab=About
 leftnav=About Us
-image=1
+banner=10
+bannerpos=80%
 ~~~~~~
 
 We're 14- to 18-year-old [Scouts](https://scouts.org.uk) in and around [Worcester City](about-sections.html).

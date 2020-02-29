@@ -3,6 +3,8 @@ date=2020-02-23
 type=page
 status=published
 tab=Contact
+banner=1
+bannerpos=60%
 ~~~~~~
 
 ##Email
