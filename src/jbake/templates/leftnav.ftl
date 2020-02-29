@@ -1,10 +1,9 @@
 <#assign leftnav = {
 	"About": {
 		"About Us": "about.html",
-		"Sections": "about-sections.html",
+		"Units": "about-sections.html",
 		"Young Leaders": "about-youngleaders.html",
-		"Activities": "about-activities.html",
-		"Badges and Awards": "about-awards.html"
+		"Activities": "about-activities.html"
 	}
 }>
 
@@ -14,7 +13,7 @@
 						<div class="navbar">
 							<ul>
 								<#list navList as navTitle, navLocation>
-									<#if navTitle == content.title>
+									<#if navTitle == content.leftnav>
 										<li><a href="${navLocation}" class="selected">${navTitle}</a></li>
 									<#else>
 										<li><a href="${navLocation}">${navTitle}</a></li>
