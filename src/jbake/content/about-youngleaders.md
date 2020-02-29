@@ -1,5 +1,5 @@
 title=Young Leaders
-date=2020-02-25
+date=2020-02-29
 type=page
 status=published
 tab=About
@@ -17,4 +17,4 @@ Some Young Leaders also go to one of the regular [Explorer units](about-sections
 
 Firebrand Unit supports Young Leaders in Worcester. We meet once a term and our activities are usually about training, adventure and/or leadership. Please [get in touch](contact.html) to find out about our next meeting or other information.
 
-All Young Leaders in Worcester must be registered with Firebrand. If you're not sure, please get in touch and we can let you know.
+All Young Leaders in Worcester must be registered with Firebrand. If you're not sure whether you are, please get in touch and we can let you know.
