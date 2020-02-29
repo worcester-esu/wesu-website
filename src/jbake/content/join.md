@@ -3,7 +3,8 @@ date=2020-02-23
 type=page
 status=published
 tab=Join
-image=4
+banner=3
+bannerpos=30%
 ~~~~~~
 
 Everyone's welcome at Explorers. It doesn't matter whether you started years ago in Beavers or you only heard about Scouting last week.

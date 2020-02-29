@@ -23,8 +23,8 @@
 				<#include "tabs.ftl">
 			</div>
 		</div>
-		<#if content.banner?has_content && content.banner == "true">
-			<div class="bar_banner">
+		<#if content.banner?has_content>
+			<div class="bar_banner" style="background-image: url('../img/banner-${content.banner}.jpg'); <#if content.bannerpos?has_content>background-position: ${content.bannerpos} 0%;</#if>">
 			</div>
 		</#if>
 		<div class="bar_content">
