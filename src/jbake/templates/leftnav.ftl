@@ -13,7 +13,7 @@
 						<div class="navbar">
 							<ul>
 								<#list navList as navTitle, navLocation>
-									<#if navTitle == content.title>
+									<#if navTitle == content.leftnav>
 										<li><a href="${navLocation}" class="selected">${navTitle}</a></li>
 									<#else>
 										<li><a href="${navLocation}">${navTitle}</a></li>

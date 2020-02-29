@@ -3,6 +3,7 @@ date=2020-02-25
 type=page
 status=published
 tab=About
+leftnav=Activities
 image=3
 ~~~~~~
 
